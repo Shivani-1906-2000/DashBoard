@@ -1,0 +1,47 @@
+/*changing navbar color*/
+.bg-dark{background-color:black !important;}
+
+/*changing anchor tag*/
+.navbar-nav .nav-item .nav-link{color:#fff;
+font-size:20px;}
+
+/*anchor tag on hover*/
+.navbar-nav .nav-item .nav-link:hover{color:#fff;
+font-size:20px;
+border-bottom:2px solid #fff;
+color:#fff;
+opacity:0.8;}
+
+/*dashboard*/
+.dash{background-color:#21ddfb;
+    position:fixed;
+top:35px;
+right:1150px;
+}
+
+/*dashboard anchor tag*/
+.dash a{color:#fff;
+font-size:25px;
+font-family:sans-serif;
+}
+
+/*dashboard anchor tag hover effect*/
+.dash a:hover{opacity:0.8;}
+
+/*text*/
+.abc{top:60px;
+left:200px;}
+
+/*changing h1 of the column 2*/
+.abc h1{text-align:center;
+padding:10px;
+text-decoration:underline;
+color:red;}
+
+/*changing p of column 2*/
+.abc p{padding:10px;
+color:#fff;
+background-color:red;
+opacity:0.4;
+font-size:20px;}
+
